@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronic engineer<br>Learning to code in general<br>I know spanish, english and a lil bit of german<br>Big head = Big Thoughts 🧠
+Learning to code in general<br>I know spanish, english and a lil bit of german<br>Big head = Big Thoughts 🧠
 
 
 ## 🌐 Socials:
