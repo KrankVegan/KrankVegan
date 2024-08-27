@@ -4,8 +4,6 @@ Hello! My name is Miguel, and I'm glad you're here. I love coding, learning new 
 
 - 📫 How to reach me **martinezcawork@gmail.com**
 
-<p align="center">📫 How to reach me **martinezcawork@gmail.com**</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/miguel-a-martinez-c-b408b9281" target="blank">
