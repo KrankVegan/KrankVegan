@@ -36,7 +36,7 @@ Hello! My name is Miguel, and I'm glad you're here. I love coding, learning new 
 - Can get caught up in perfectionism
 - Still improving my time management skills
 
-  ### 📍 Interest:
+### 📍 Interests:
 - I love AI and love to see all the advances that will lead us to <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="blank"> The Technological Singularity </a>
 - Reading
 - Drawing
