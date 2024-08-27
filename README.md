@@ -25,21 +25,20 @@ Hello! My name is Miguel, and I'm glad you're here. I love coding, learning new 
 
 ---
 
-### 💪 Strengths:
-- Problem-solving
-- Attention to detail
-- Adaptability
-- Collaborative team player
+## 💪 Strengths:
+- 🧩 Problem-solving
+- 🤝 Collaborative team player
+- 🌍 Native Spanish speaker, B2 in English, and B1 in German
 
-### ⚠️ Weaknesses:
-- Sometimes overthink solutions
-- Can get caught up in perfectionism
-- Still improving my time management skills
+## ⚠️ Weaknesses:
+- 🤔 Sometimes overthink solutions
+- 🎯 Can get caught up in perfectionism
+- ⏳ Still improving my time management skills
 
-### 📍 Interests:
-- I love AI and love to see all the advances that will lead us to <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="blank"> The Technological Singularity </a>
-- Reading
-- Drawing
+## 📍 Interests:
+- 🤖 I love AI and enjoy seeing all the advances that will lead us to <a href="https://en.wikipedia.org/wiki/Technological_singularity" target="blank">The Technological Singularity</a>
+- 📚 Reading
+- 🎨 Drawing
 
 ---
 
