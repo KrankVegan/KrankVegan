@@ -26,7 +26,7 @@ Hello! My name is Miguel, and I'm glad you're here. I love coding, learning new 
 ## 💪 Strengths:
 - 🧩 Problem-solving
 - 🤝 Collaborative team player
-- 🌍 Native Spanish speaker, B2 in English, and B1 in German
+- 🌍 Native Spanish speaker, C1 in English, and B1 in German
 
 ## ⚠️ Weaknesses:
 - 🤔 Sometimes overthink solutions
